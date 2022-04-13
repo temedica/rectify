@@ -1,3 +1,9 @@
+# IMPORTANT ⛔️
+
+Do not remove this REPO , it is actively being used by Waya and Pelvina backends!
+
+The orginal lib is not supported anymore. 
+
 # Rectify
 
 [![Code Climate](https://codeclimate.com/github/andypike/rectify/badges/gpa.svg)](https://codeclimate.com/github/andypike/rectify)
